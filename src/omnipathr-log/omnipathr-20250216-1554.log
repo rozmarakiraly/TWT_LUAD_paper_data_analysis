@@ -1,0 +1,12 @@
+[2025-02-16 15:54:21] [INFO]    [OmnipathR] Welcome to OmnipathR!
+[2025-02-16 15:54:21] [TRACE]   [OmnipathR] Reading JSON from `C:\Users\simsug\AppData\Local\Cache\OmnipathR/cache.json` (encoding: UTF-8).
+[2025-02-16 15:54:21] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2025-02-16 15:54:21] [INFO]    [OmnipathR] Initialized cache: `C:\Users\simsug\AppData\Local\Cache\OmnipathR`.
+[2025-02-16 15:54:21] [TRACE]   [OmnipathR] Reading JSON from `C:/Users/simsug/AppData/Local/Programs/R/R-4.4.1/library/OmnipathR/db/db_def.json` (encoding: UTF-8).
+[2025-02-16 15:54:21] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2025-02-16 15:54:21] [TRACE]   [OmnipathR] Reading JSON from `C:/Users/simsug/AppData/Local/Programs/R/R-4.4.1/library/OmnipathR/internal/magic_bytes.json` (encoding: UTF-8).
+[2025-02-16 15:54:21] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2025-02-16 15:54:21] [TRACE]   [OmnipathR] Reading JSON from `C:/Users/simsug/AppData/Local/Programs/R/R-4.4.1/library/OmnipathR/internal/urls.json` (encoding: UTF-8).
+[2025-02-16 15:54:21] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2025-02-16 15:54:22] [TRACE]   [OmnipathR] Reading JSON from `C:/Users/simsug/AppData/Local/Programs/R/R-4.4.1/library/OmnipathR/internal/id_types.json` (encoding: UTF-8).
+[2025-02-16 15:54:22] [TRACE]   [OmnipathR] JSON validation successful: TRUE
